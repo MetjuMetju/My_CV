@@ -1,3 +1,24 @@
-.title {
-    color: #02ccba;
+h1 {
+    font-family: Arial;
+    color: #4040e7;
   }
+
+h5 {
+    font-family: Arial;
+    color: black;
+  }
+
+div {
+    white-space: pre-wrap;
+}
+
+.myDiv1 {
+  background-color: orange;
+  text-align: center;
+}
+
+.myDiv2 {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
