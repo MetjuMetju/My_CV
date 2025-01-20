@@ -1,5 +1,6 @@
 git branch
 git add *
+git status
 git commit -m "initial commit"
-git push origin master
+git push origin main # or git push origin master
 
